@@ -1,2 +1,2 @@
 # muaceleste
- Repository for MUA Celeste's web portfolio.
+ Repository for MUA Celéste's web portfolio.

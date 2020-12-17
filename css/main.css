@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth !important;
+}
+
+a{
+    color: grey !important;
+}
+
+a:hover{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+header{
+
+}
+
+.roundImg{
+    border-radius: 0.5rem !important;
+}
+
+.textJob{
+    font-size: 1rem !important;
+}
+
+.faLink a i{
+    font-size: x-large;
+}
