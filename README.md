@@ -1,2 +1,2 @@
 # muaceleste
- Repository for MUA Celéste's web portfolio.
+Professional make-up artist's website built with React. 
