@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Header from './Header.component'
-import '../App.css'
+import 'https://drive.google.com/uc?export=view&id=1Ls99W8HxzSDMEBIQ9WLuWFoBpsWe7weu'
 import PortfolioSection from './portfolioSection.component'
 import CallToAction from './callToAction.component'
 import Contact from './contact.component'
