@@ -1,1 +1,4 @@
 /node_modules
+/src/App.css
+/src/App.css.map
+/src/App.scss
