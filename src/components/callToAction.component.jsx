@@ -16,8 +16,10 @@ export default function callToAction() {
                                 <p className="py-3 text-justify lead">I am a Cape Town based Professional makeup artist and nail tech. My Services include weddings, special events and photo shoots. I love skin to look like skin and I believe that makeup should not wear you, but it should enhance that natural beauty that is already there.</p>
                             </div>
                         </div>
-            
-                        <button className="btn btn-lg btn-primary">Book a session</button>
+
+                        <a href="https://wa.me/717342279">
+                            <button className="btn btn-lg btn-primary">Book a session</button>
+                        </a>
                     </div>
 
                     <div className="col-12 col-sm-12 col-lg-6 col-xl-6">
