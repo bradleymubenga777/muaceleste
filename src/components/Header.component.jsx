@@ -16,15 +16,15 @@ export default function Header() {
             <div className="col-12">
                 <div className="d-flex justify-content-center">
                     <div className="faLink">
-                        <a href="/" className="mr-5"><i className="fa fa-facebook"></i></a>
+                        <a href="https://www.facebook.com/MUACeleste/" className="mr-5"><i className="fa fa-facebook"></i></a>
                     </div>
     
                     <div className="faLink">
-                        <a href="/" className="mr-5"><i className="fa fa-instagram"></i></a>
+                        <a href="https://instagram.com/celestinah_the_artist" className="mr-5"><i className="fa fa-instagram"></i></a>
                     </div>
     
                     <div className="faLink">
-                        <a href="/"><i className="fa fa-phone"></i></a>
+                        <a href="https://wa.me/717342279"><i className="fa fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
