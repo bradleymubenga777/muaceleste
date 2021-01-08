@@ -20,7 +20,7 @@ export default function Contact() {
                                 </div>
                 
                                 <div className="faLink">
-                                    <a href="https://wa.me/27717342279"><i className="fa fa-phone"></i></a>
+                                    <a href="https://wa.me/27717342279"><i className="fa fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
