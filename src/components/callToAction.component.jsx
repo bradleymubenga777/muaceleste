@@ -17,7 +17,7 @@ export default function callToAction() {
                             </div>
                         </div>
 
-                        <a href="https://wa.me/717342279">
+                        <a href="https://wa.me/27717342279">
                             <button className="btn btn-lg btn-primary">Book a session</button>
                         </a>
                     </div>

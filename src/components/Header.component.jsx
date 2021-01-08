@@ -24,7 +24,7 @@ export default function Header() {
                     </div>
     
                     <div className="faLink">
-                        <a href="https://wa.me/717342279"><i className="fa fa-whatsapp"></i></a>
+                        <a href="https://wa.me/27717342279"><i className="fa fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
