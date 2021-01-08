@@ -18,7 +18,7 @@ export default function Contact() {
                                 <div className="faLink">
                                     <a href="https://instagram.com/celestinah_the_artist" className="mr-5"><i className="fa fa-instagram"></i></a>
                                 </div>
-                
+                              
                                 <div className="faLink">
                                     <a href="https://wa.me/27717342279"><i className="fa fa-whatsapp"></i></a>
                                 </div>
