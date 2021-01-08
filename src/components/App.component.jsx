@@ -4,7 +4,7 @@ import PortfolioSection from './portfolioSection.component'
 import CallToAction from './callToAction.component'
 import Contact from './contact.component'
 import Footer from './footer.component'
-import '../importCss.css'
+import '../importCSS.css'
 
 export default class App extends Component {
     render() {
